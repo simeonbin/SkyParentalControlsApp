@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact name="SkyParentalControlsApp.zip">
+    <output-path>$PROJECT_DIR$/out/artifacts/SkyParentalControlsApp_zip</output-path>
+    <root id="root" />
+  </artifact>
+</component>
