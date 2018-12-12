@@ -14,9 +14,9 @@ customers' parental control level againts the requested movies' and approve, rej
 
 I only had time to work on 5 main Tests:
 
-returnErrorMessageWhenMovieIdNotAvailable()
-returnErrorMessageWhenTechnicalFailure()
-canWatchWhenMovieLevelLessThanCustomerLevel()
-canWatchWhenMovieLevelEqualToCustomerLevel()
-canNotWatchWhenMovieLevelHigherThanCustomerLevel()
+returnErrorMessageWhenMovieIdNotAvailable(),
+returnErrorMessageWhenTechnicalFailure(),
+canWatchWhenMovieLevelLessThanCustomerLevel(),
+canWatchWhenMovieLevelEqualToCustomerLevel(),
+canNotWatchWhenMovieLevelHigherThanCustomerLevel().
 
